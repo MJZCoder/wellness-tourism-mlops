@@ -1,5 +1,5 @@
 {
-    "classification_threshold": 0.35,
+    "classification_threshold": 0.24,
     "optimization_metric": "f1",
     "selection_method": "5-fold stratified cross-validation"
 }
