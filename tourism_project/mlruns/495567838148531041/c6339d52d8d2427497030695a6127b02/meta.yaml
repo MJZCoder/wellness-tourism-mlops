@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/495567838148531041/c6339d52d8d2427497030695a6127b02/artifacts
+end_time: 1793807288762
+entry_point_name: ''
+experiment_id: '495567838148531041'
+lifecycle_stage: active
+run_id: c6339d52d8d2427497030695a6127b02
+run_name: XGBoost_Threshold_Optimization
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793807288627
+status: 3
+tags: []
+user_id: root
