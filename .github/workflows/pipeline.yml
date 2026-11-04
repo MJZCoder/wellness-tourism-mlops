@@ -11,6 +11,9 @@ on:
 permissions:
   contents: write
 
+env:
+  MLFLOW_ALLOW_FILESTORE: 'true'
+
 jobs:
 
   # -----------------------------------------
