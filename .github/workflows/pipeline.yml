@@ -12,7 +12,7 @@ permissions:
   contents: write
 
 env:
-  MLFLOW_ALLOW_FILESTORE: 'true'
+  MLFLOW_ALLOW_FILE_STORE: 'true'
 
 jobs:
 
