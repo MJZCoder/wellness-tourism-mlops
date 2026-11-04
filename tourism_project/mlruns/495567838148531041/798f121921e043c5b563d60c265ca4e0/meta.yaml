@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/495567838148531041/798f121921e043c5b563d60c265ca4e0/artifacts
+end_time: 1793805435154
+entry_point_name: ''
+experiment_id: '495567838148531041'
+lifecycle_stage: active
+run_id: 798f121921e043c5b563d60c265ca4e0
+run_name: XGBoost_GridSearch
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793805426299
+status: 3
+tags: []
+user_id: root
