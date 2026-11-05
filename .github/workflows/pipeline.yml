@@ -91,7 +91,6 @@ jobs:
       - name: Install Dependencies
         run: |
           pip install -r tourism_project/requirements-ci.txt
-          pip install mlflow
 
       - name: Download Train Test Splits
         uses: actions/download-artifact@v4
@@ -133,7 +132,6 @@ jobs:
       - name: Install Dependencies
         run: |
           pip install -r tourism_project/requirements-ci.txt
-          pip install mlflow
 
       - name: Download Train Test Splits
         uses: actions/download-artifact@v4
